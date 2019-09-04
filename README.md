@@ -1,3 +1,7 @@
 # arabic-ID
 arabic ID
-hi
+
+
+run 
+
+```python examples.py```
